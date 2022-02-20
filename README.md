@@ -8,5 +8,6 @@
     <br><p>This tool encryptes the file to avoid human readble, it uses the hybrid encryption AES and ECC algorithm for generating keys, it is full created in python programming language, this program is full compactiable in every situation, you can use it like a single standonle file which works independent on its alone directory</p>
     <br><p>Some usage of it are there--</p>
       <br>1. when you open it for first time, you will have to enter the salt as just like a password, make sure you dont forget that otherwise, you will not recover your encrypted file again
+    <img src=images/salt.png>
   </body>
 </html>
