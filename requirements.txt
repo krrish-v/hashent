@@ -1,0 +1,6 @@
+pycryptodome==3.12.0
+tinyec==0.4.0
+ttkthemes==3.2.2
+tk==0.1.0
+tkinter
+webbrowser
