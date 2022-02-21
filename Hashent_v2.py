@@ -1,3 +1,9 @@
+#_________________________________________________________________
+# Copyright 2022 krrish, All rights reserved.
+# You are not allowed to use this code to represent yoursself in the front of outsiders as you do from stackoverflow or form github,
+# Coperate with us. THANK YOU
+# Written by a Indian Developer - username on GitHub: @krrish-dev
+#__________________________________________________________________
 
 import os
 import sys
