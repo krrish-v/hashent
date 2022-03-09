@@ -22,9 +22,9 @@
   <br><p>First of all download all the required libraries and one addintional library that is pyinstaller</p>
   <p>open the terminal in the downloaded directory type the following command</p>
   <h3>For windows</h3>
-  <p><u><i>  > python3 pyinstaller --windowed --icon=icon/icon_.ico Hashent_v2.py</i></u></p>
+  <p><u><i>  > python3 pyinstaller --windowed --icon=icon/icon.png Hashent_v2.py</i></u></p>
   <h3>For Linux</h3>
-  <p><u><i>  $ ./pyinstaller --noconsole --icon=icon/icon_.ico Hashent_v2.py</i></u></p>
+  <p><u><i>  $ ./pyinstaller --noconsole --icon=icon/icon.png Hashent_v2.py</i></u></p>
   <h1>That's all what can done by and for it, THANK YOU FOR YOUR SUPPORT RATE IT IF YOU LIKE</h1>
   </body>
 </html>
