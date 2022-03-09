@@ -161,7 +161,7 @@ def session():
     def help():
         cmd.insert(END, '[+] Opening help page')
         try:
-            webbrowser.open('https://github.com/krrish-dev/')
+            webbrowser.open('https://it-inosec.blogspot.com/2021/08/open-source-programs.html')
         except:
             cmd.insert(END, '[-] Cannot able to open your webrowser visit https://github.com/krrish-dev/')
 
