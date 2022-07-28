@@ -16,7 +16,7 @@
     <img src=images/directory.png>
     <br>5. Click on encrypt to encrypt, on decrpyt to decrypt or "Remove" button is for revoming the files from selected directory files
     <img src=images/main_screen.jpg>
-    <br>6. There is one other cool feature to make changes and view the encrypted text file without decrypting it, thats what the "Text Edittor" button do. Its open the file that are in the text file format images, pdfs and other formats are not supported in this version
+    <br>6. There is one other cool feature to make changes and view the encrypted text file without decrypting it, thats what the "Text Edittor" button do. Its open the file that are in the .txt format | images, pdfs and other formats are not supported in this version
     <img src=images/text_editor.png></p>
   <br><br><p><b>Now how will you use it</b></p>
   <br><p>First of all download all the required libraries and one addintional library that is pyinstaller</p>
